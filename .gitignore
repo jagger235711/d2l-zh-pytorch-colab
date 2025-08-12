@@ -14,3 +14,6 @@ run.sh
 .venv
 *.ckpt
 gpucore.*
+wandb/
+实战/test/MNIST/
+*.pt
